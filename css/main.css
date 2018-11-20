@@ -19,7 +19,7 @@ a {
 }
 
 img {
-  display: block;
+  display: block
   width: 100%;
 }
 
@@ -33,4 +33,29 @@ div {
   padding: 1em;
   vertical-align: middle;
   max-width: 25em;
+}
+
+section {
+  padding-top: 2em
+  padding-bottom: 2em;
+}
+
+p {
+  display: block;
+  text-align: left;
+}
+
+.btn {
+  display: inline-block;
+  padding: .4em .75em .5em;
+  border-radius: 5px;
+  border: 3px solid #333;
+  text-decoration: none;
+  text-align: left;
+  color: #666;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #333;
 }
