@@ -19,7 +19,7 @@ a {
 }
 
 img {
-  display: block
+  display: block;
   width: 100%;
 }
 
@@ -36,7 +36,7 @@ div {
 }
 
 section {
-  padding-top: 2em
+  padding-top: 2em;
   padding-bottom: 2em;
 }
 
